@@ -34,7 +34,7 @@ int main() {
         j--;
     }
 
-    cout << "Array elements are: ";
+    cout << "Array in reverse order: ";
     displayArray(arr, n);
 
     return 0;
